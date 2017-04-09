@@ -1,5 +1,5 @@
 
-//var app = require("../app/fizzBuzz.js");
+var app = require("../app/fizzBuzz.js");
 
 describe("Fizz Buzz tests ", function() {
   
